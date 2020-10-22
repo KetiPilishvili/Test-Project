@@ -1070,6 +1070,9 @@ h5{
     margin-bottom: 20px;
     justify-content: space-between;
 }
+.Price-m2-p{
+	white-space: nowrap;
+}
 
 
 
